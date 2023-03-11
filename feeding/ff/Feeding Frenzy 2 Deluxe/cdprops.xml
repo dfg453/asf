@@ -1,0 +1,13 @@
+﻿<Properties>
+  <String id="CREATE_FAILED_HWDAT">Failed to create hw.dat!</String>
+  <String id="ERROR">FATAL ERROR</String>
+  <String id="FAILED_TO_EXECUTE_GAME">Failed to execute game&cr;&cr;%DEBUG_INFO%</String>
+  <String id="FAILED_TO_EXTRACT_GAME">Unable to extract game executable.</String>
+  <String id="FAILED_TO_LOCATE_GAME">Unable to locate game content.</String>
+  <String id="INSTALL_CORRUPTED">Installation corrupted. Please reinstall from the original CD.</String>
+  <String id="INSTALL_FROM_CD">This program must be installed from the original CD.</String>
+  <String id="INVALID_CMDLINE">Invalid command line.</String>
+  <String id="OPEN_FAILED_PARTNERXML">Unable to open 'properties\partner.xml'</String>
+  <String id="PARSE_FAILED_PARTNERXML">Partner.xml parsing error.</String>
+  <String id="PROP_MISSING_PARTNERXML">Unable to find properties string '%PROPERTY%'</String>
+</Properties>

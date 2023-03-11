@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<InstallLog>
+	<InstallName>Feeding Frenzy 2 Deluxe 1.0</InstallName>
+	<AppDataSuffix>PopCap Games\FeedingFrenzy2</AppDataSuffix>
+	<UninstallDeltree>D:\FeedingFrenzy2\Feeding Frenzy 2 Deluxe</UninstallDeltree>
+	<UninstallDeltree>C:\Documents and Settings\All Users\Start Menu\Programs\PopCap Games\Feeding Frenzy 2 Deluxe</UninstallDeltree>
+	<UninstallDeltree>%ProgramDataFolder%</UninstallDeltree>
+	<UninstallDelRegKey>HKLM\SOFTWARE\PopCap\FeedingFrenzy2</UninstallDelRegKey>
+	<UninstallDelRegKey>HKCU\SOFTWARE\PopCap\FeedingFrenzy2</UninstallDelRegKey>
+	<UninstallDelRegKey>HKCU\SOFTWARE\GameHouse\Feeding Frenzy 2</UninstallDelRegKey>
+	<UserRegKey>HKLM\SOFTWARE\PopCap\FeedingFrenzy2</UserRegKey>
+	<UserRegKey>HKCU\SOFTWARE\GameHouse\Feeding Frenzy 2</UserRegKey>
+	<File>D:\FeedingFrenzy2\Feeding Frenzy 2 Deluxe\bass.dll</File>
+	<File>D:\FeedingFrenzy2\Feeding Frenzy 2 Deluxe\drmss.jpg</File>
+	<File>D:\FeedingFrenzy2\Feeding Frenzy 2 Deluxe\FeedingFrenzy2.exe</File>
+	<File>D:\FeedingFrenzy2\Feeding Frenzy 2 Deluxe\FF2.saf</File>
+	<File>D:\FeedingFrenzy2\Feeding Frenzy 2 Deluxe\license.txt</File>
+	<File>D:\FeedingFrenzy2\Feeding Frenzy 2 Deluxe\music\FF2.mo3</File>
+	<File>D:\FeedingFrenzy2\Feeding Frenzy 2 Deluxe\PopUninstall.exe</File>
+	<File>D:\FeedingFrenzy2\Feeding Frenzy 2 Deluxe\properties\partner.xml</File>
+	<File>D:\FeedingFrenzy2\Feeding Frenzy 2 Deluxe\properties\partner.xml.sig</File>
+	<File>D:\FeedingFrenzy2\Feeding Frenzy 2 Deluxe\readme.html</File>
+	<File>D:\FeedingFrenzy2\Feeding Frenzy 2 Deluxe\splash\ambientBubblesSplash.xml</File>
+	<File>D:\FeedingFrenzy2\Feeding Frenzy 2 Deluxe\splash\bubbleStreamNarrowSplash.xml</File>
+	<File>D:\FeedingFrenzy2\Feeding Frenzy 2 Deluxe\splash\fx\fx_bubble_d0.png</File>
+	<File>D:\FeedingFrenzy2\Feeding Frenzy 2 Deluxe\splash\gameLinkBtnHigh.png</File>
+	<File>D:\FeedingFrenzy2\Feeding Frenzy 2 Deluxe\splash\gameLinkBtnNormal.png</File>
+	<File>D:\FeedingFrenzy2\Feeding Frenzy 2 Deluxe\splash\loadAngelFx.xml</File>
+	<File>D:\FeedingFrenzy2\Feeding Frenzy 2 Deluxe\splash\loadBar.png</File>
+	<File>D:\FeedingFrenzy2\Feeding Frenzy 2 Deluxe\splash\loadBarCap.png</File>
+	<File>D:\FeedingFrenzy2\Feeding Frenzy 2 Deluxe\splash\logo.jpg</File>
+	<File>D:\FeedingFrenzy2\Feeding Frenzy 2 Deluxe\splash\popCapLogo.png</File>
+	<File>D:\FeedingFrenzy2\Feeding Frenzy 2 Deluxe\splash\splashBg.jpg</File>
+	<File>D:\FeedingFrenzy2\Feeding Frenzy 2 Deluxe\splash\splashLoadBar.png</File>
+	<File>D:\FeedingFrenzy2\Feeding Frenzy 2 Deluxe\splash\splashScreen.xml</File>
+	<File>D:\FeedingFrenzy2\Feeding Frenzy 2 Deluxe\splash\_logo.png</File>
+	<GameExplorerGuid>{33606C11-1D5C-4B95-905C-CA7807345DF6}</GameExplorerGuid>
+	<UninstallDeltree>C:\Documents and Settings\All Users\Application Data\Microsoft\Windows\GameExplorer\{33606C11-1D5C-4B95-905C-CA7807345DF6}</UninstallDeltree>
+	<UninstallDelRegKey>HKLM\Software\Microsoft\Windows\CurrentVersion\GameUX\GamesToFindOnWindowsUpgrade\{33606C11-1D5C-4B95-905C-CA7807345DF6}</UninstallDelRegKey>
+	<Registry>
+		<RegValue>
+			<Key>HKLM\SOFTWARE\PopCap\FeedingFrenzy2</Key>
+			<Name>InstallPath</Name>
+		</RegValue>
+		<RegValue>
+			<Key>HKCU\SOFTWARE\GameHouse\Feeding Frenzy 2 Deluxe</Key>
+			<Name>InstallCheck</Name>
+		</RegValue>
+	</Registry>
+	<UninstallDelRegKey>HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Feeding Frenzy 2 Deluxe 1.0</UninstallDelRegKey>
+	<File>%CommonProgramGroup%\%InstallGroup%\Feeding Frenzy 2 Deluxe\Play Feeding Frenzy 2 Deluxe.lnk</File>
+	<File>%CommonProgramGroup%\%InstallGroup%\Feeding Frenzy 2 Deluxe\View Readme.lnk</File>
+	<File>%CommonProgramGroup%\%InstallGroup%\Feeding Frenzy 2 Deluxe\Uninstall Feeding Frenzy 2 Deluxe.lnk</File>
+	<File>%CommonProgramGroup%\%InstallGroup%\Feeding Frenzy 2 Deluxe\Visit PopCap.com.url</File>
+	<File>%CommonDesktop%\Feeding Frenzy 2 Deluxe.lnk</File>
+	<File>#HasDirectoriesExcept D:\FeedingFrenzy2,Feeding Frenzy 2 Deluxe, | %CommonDesktop%\Play More Great Games!.url</File>
+	<File>#HasDirectoriesExcept D:\FeedingFrenzy2,Feeding Frenzy 2 Deluxe, | D:\FeedingFrenzy2\moregames.ico</File>
+	<File>C:\Documents and Settings\All Users\Application Data\Microsoft\Windows\GameExplorer\{33606C11-1D5C-4B95-905C-CA7807345DF6}\PlayTasks\0\Feeding Frenzy 2 Deluxe.lnk</File>
+	<Defines>
+		<Define>
+			<Name>INSTALLGROUP</Name>
+			<Value>PopCap Games</Value>
+		</Define>
+		<Define>
+			<Name>INSTALLNAME</Name>
+			<Value>Feeding Frenzy 2 Deluxe %Version%</Value>
+		</Define>
+		<Define>
+			<Name>INSTALLPATH</Name>
+			<Value>%ProgramFiles%\PopCap Games</Value>
+		</Define>
+		<Define>
+			<Name>VERSION</Name>
+			<Value>1.0</Value>
+		</Define>
+	</Defines>
+</InstallLog>

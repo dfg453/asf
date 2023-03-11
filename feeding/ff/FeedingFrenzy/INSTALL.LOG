@@ -1,0 +1,124 @@
+***  Installation Started 06/17/2007 21:09  ***
+Title: Feeding Frenzy Installation
+Source: C:\DOCUME~1\apa\LOCALS~1\Temp\GLB2.tmp
+Made Dir: D:\FeedingFrenzy
+File Copy: D:\FeedingFrenzy\UNWISE.EXE
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Feeding Frenzy
+RegDB Val: Feeding Frenzy
+RegDB Name: DisplayName
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Feeding Frenzy
+RegDB Val: D:\FEEDIN~1\UNWISE.EXE /U D:\FEEDIN~1\INSTALL.LOG
+RegDB Name: UninstallString
+RegDB Root: 2
+Made Dir: D:\FeedingFrenzy\resources
+Made Dir: D:\FeedingFrenzy\resources\sounds
+File Copy: D:\FeedingFrenzy\resources\sounds\wave1.wav
+File Copy: D:\FeedingFrenzy\resources\sounds\waterloop1.wav
+File Copy: D:\FeedingFrenzy\resources\sounds\wateramb2.wav
+File Copy: D:\FeedingFrenzy\resources\sounds\WaterAmb1.wav
+File Copy: D:\FeedingFrenzy\resources\sounds\wave2.wav
+File Copy: D:\FeedingFrenzy\resources\sounds\stunBubble.wav
+File Copy: D:\FeedingFrenzy\resources\sounds\starPickup.wav
+File Copy: D:\FeedingFrenzy\resources\sounds\stageIntro.wav
+File Copy: D:\FeedingFrenzy\resources\sounds\stageClear.wav
+File Copy: D:\FeedingFrenzy\resources\sounds\speedStart.wav
+File Copy: D:\FeedingFrenzy\resources\sounds\speedEnd.wav
+File Copy: D:\FeedingFrenzy\resources\sounds\schoolBonus.wav
+File Copy: D:\FeedingFrenzy\resources\sounds\pufferBounce.wav
+File Copy: D:\FeedingFrenzy\resources\sounds\playerStunned.wav
+File Copy: D:\FeedingFrenzy\resources\sounds\playerSpawn.wav
+File Copy: D:\FeedingFrenzy\resources\sounds\playerPoison.wav
+File Copy: D:\FeedingFrenzy\resources\sounds\anglerLureLoop.wav
+File Copy: D:\FeedingFrenzy\resources\sounds\BarracudaWarn.wav
+File Copy: D:\FeedingFrenzy\resources\sounds\bite1.wav
+File Copy: D:\FeedingFrenzy\resources\sounds\bite2.wav
+File Copy: D:\FeedingFrenzy\resources\sounds\bite3.wav
+File Copy: D:\FeedingFrenzy\resources\sounds\bite4.wav
+File Copy: D:\FeedingFrenzy\resources\sounds\bubbleLoop1.wav
+File Copy: D:\FeedingFrenzy\resources\sounds\bubbles1.wav
+File Copy: D:\FeedingFrenzy\resources\sounds\bubbles2.wav
+File Copy: D:\FeedingFrenzy\resources\sounds\doubleFrenzy.wav
+File Copy: D:\FeedingFrenzy\resources\sounds\eatGulp.wav
+File Copy: D:\FeedingFrenzy\resources\sounds\feedingFrenzy.wav
+File Copy: D:\FeedingFrenzy\resources\sounds\feedingFrenzyChime.wav
+File Copy: D:\FeedingFrenzy\resources\sounds\freeLife.wav
+File Copy: D:\FeedingFrenzy\resources\sounds\furyEnd.wav
+File Copy: D:\FeedingFrenzy\resources\sounds\furyStart.wav
+File Copy: D:\FeedingFrenzy\resources\sounds\GameOver.wav
+File Copy: D:\FeedingFrenzy\resources\sounds\jdSuckSound.wav
+File Copy: D:\FeedingFrenzy\resources\sounds\Mermaid.wav
+File Copy: D:\FeedingFrenzy\resources\sounds\mineExplode.wav
+File Copy: D:\FeedingFrenzy\resources\sounds\mouseDown.wav
+File Copy: D:\FeedingFrenzy\resources\sounds\mouseOver.wav
+File Copy: D:\FeedingFrenzy\resources\sounds\oysterBite.wav
+File Copy: D:\FeedingFrenzy\resources\sounds\oysterPearl.wav
+File Copy: D:\FeedingFrenzy\resources\sounds\playerDash.wav
+File Copy: D:\FeedingFrenzy\resources\sounds\playerDie.wav
+File Copy: D:\FeedingFrenzy\resources\sounds\playerEat.wav
+File Copy: D:\FeedingFrenzy\resources\sounds\playerGrow.wav
+File Copy: D:\FeedingFrenzy\ffresources.dll
+File Copy: D:\FeedingFrenzy\readme.txt
+File Copy: D:\FeedingFrenzy\FeedingFrenzy.exe
+File Copy: D:\FeedingFrenzy\FFArchive.saf
+Made Dir: D:\FeedingFrenzy\resources\splash
+File Copy: D:\FeedingFrenzy\resources\splash\gameSplash.jpg
+Made Dir: D:\FeedingFrenzy\resources\menus
+File Copy: D:\FeedingFrenzy\resources\menus\GameLinkBtnHigh.png
+File Copy: D:\FeedingFrenzy\resources\menus\GameLinkBtnNormal.png
+Made Dir: D:\FeedingFrenzy\resources\music
+File Copy: D:\FeedingFrenzy\resources\music\menuMusic.wav
+File Copy: D:\FeedingFrenzy\resources\music\track1.wav
+File Copy: D:\FeedingFrenzy\resources\music\track2.wav
+File Copy: D:\FeedingFrenzy\resources\music\track3.wav
+File Copy: D:\FeedingFrenzy\resources\music\track4.wav
+Non-System File:
+File Copy: C:\WINDOWS\FeedingFrenzy.scr
+Shell Link: C:\Documents and Settings\All Users\Asztal\Feeding Frenzy.lnk
+Made Dir: C:\Documents and Settings\All Users\Start Menu\Programs\GameHouse
+Made Dir: C:\Documents and Settings\All Users\Start Menu\Programs\GameHouse\Feeding Frenzy
+Shell Link: C:\Documents and Settings\All Users\Start Menu\Programs\GameHouse\Feeding Frenzy\Feeding Frenzy.lnk
+Shell Link: C:\Documents and Settings\All Users\Start Menu\Programs\GameHouse\Feeding Frenzy\Read Me!.lnk
+Shell Link: C:\Documents and Settings\All Users\Start Menu\Programs\GameHouse\Feeding Frenzy\Uninstall Feeding Frenzy.lnk
+Delete in-use files: On
+RegDB Key: Software\GameHouse\FeedingFrenzy
+RegDB Val: D:\FeedingFrenzy\FeedingFrenzy.exe
+RegDB Name: InstallPath
+RegDB Root: 1
+RegDB Key: Software\GameHouse\FeedingFrenzy
+RegDB Val: 2.4.2.3
+RegDB Name: InstallVersion
+RegDB Root: 1
+RegDB Key: Software\GameHouse\FeedingFrenzy
+RegDB Val: 0
+RegDB Name: ShowLink
+RegDB Root: 1
+RegDB Key: Software\GameHouse\FeedingFrenzy
+RegDB Val: 1
+RegDB Name: FullScreen
+RegDB Root: 1
+RegDB Key: Software\GameHouse\FeedingFrenzy
+RegDB Val: D:\FeedingFrenzy
+RegDB Name: SaverInstallPath
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Feeding Frenzy
+RegDB Val: http://www.gamehouse.com/
+RegDB Name: HelpLink
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Feeding Frenzy
+RegDB Val: GameHouse, Inc.
+RegDB Name: Publisher
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Feeding Frenzy
+RegDB Val: http://www.gamehouse.com/
+RegDB Name: URLInfoAbout
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Feeding Frenzy
+RegDB Val: support@gamehouse.com
+RegDB Name: Contact
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Feeding Frenzy
+RegDB Val: Copyright © 2004 GameHouse, Inc.
+RegDB Name: Comments
+RegDB Root: 2
+User Rights: Admin

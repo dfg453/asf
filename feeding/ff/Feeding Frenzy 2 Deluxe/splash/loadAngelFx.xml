@@ -1,0 +1,16 @@
+<particleSystem autoStop="-1.0" >
+
+	<particleStream sequence="anim" emitRate="0.7" offset="0,0" offsetType="independent">
+		<resource type="image" path="splash/loadAngel/Swim." filter="X" />
+		<velocity startX="(-40,-150)" startY="(-5,5)" />
+		<acceleration rate="0" />
+		<extForce force="0,0" />
+		<position startX="470" startY="(-300,300)" />
+		<scale startScale="(0.3,1.0)" constant="true" />
+		<particleLife lifeTime="20.0" />
+		<opacity startOp="1"  endOp="1" constant="true"/>
+		
+		<jitter axis="Y" amplitude="(1.0,1.0)" period="(1.5,2.5)" rate="(1.5,2.5)" />
+	</particleStream>
+
+</particleSystem>

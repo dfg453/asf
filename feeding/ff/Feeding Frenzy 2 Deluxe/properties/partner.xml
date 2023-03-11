@@ -1,0 +1,16 @@
+<Properties>
+
+<Boolean id="DefaultWindowed">false</Boolean>
+<Boolean id="DontUpdate">true</Boolean>
+<Boolean id="NoReg">true</Boolean>
+
+<String id="InstallTag">FF2_PC_RTL_UK</String>
+<String id="ProdName">FeedingFrenzy2</String>
+<String id="DisplayName">Feeding Frenzy 2 Deluxe</String>
+<String id="Offering">50</String>
+<String id="RegistryKey">PopCap\FeedingFrenzy2</String>
+
+<Integer id="Height">480</Integer>
+<Integer id="Width">640</Integer>
+
+</Properties>

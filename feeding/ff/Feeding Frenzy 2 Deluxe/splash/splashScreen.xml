@@ -1,0 +1,20 @@
+<screen name="Splash Screen">
+
+	<modifier type="wave" name="buttonWave1" xPeriod="3.0" xAmplitude="0.5" yPeriod="4.0" yAmplitude="1" />
+	<modifier type="wave" name="buttonWave2" xPeriod="3.0" xAmplitude="1" yPeriod="4.4" yAmplitude="1" phase="2.5"/>
+	<modifier type="wave" name="buttonWave3" xPeriod="3.0" xAmplitude="0.2" yPeriod="3.9" yAmplitude="1" phase="1.5" />
+
+	<bltFx name="waveFx" type="wave" period="4.0" width="1.0" height="100"  />
+
+	<group name="bgImage">
+		<image file="splash/splashBg.jpg" bltFx="waveFx" />
+		<image file="splash/popCapLogo.png" pivot="center" x="700" y="525" modifier="buttonWave3" smoothType="smoothAll" />
+		<image name="logo" file="splash/logo.jpg" pivot="center" x="393" y="94" smoothType="smoothAll" modifier="buttonWave3" />
+		<image name="loadBar" file="splash/loadBar.png" pivot="center" x="400" y="500" />
+		<image name="loadBarCap" file="splash/loadBarCap.png" pivot="center" x="400" y="500" />
+	</group>
+
+	<particleSystem x="500" y="300"               file="splash/ambientBubblesSplash.xml" />
+	<particleSystem x="590" y="480"               file="splash/bubbleStreamNarrowSplash.xml" />
+	<particleSystem x="660" y="433"               file="splash/bubbleStreamNarrowSplash.xml" />
+</screen>
